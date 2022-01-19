@@ -73,3 +73,49 @@ Bulk creation:
 - also powershell can bulk create via script
 
 ### Groups:
+
+Replicates from on prem to aad
+
+Cloud groups:
+
+- Dynamic groups, automatically added to groups based on some defined attributes
+- Assigned/dynamic manual/automatic
+- Cant manually add to dynamic group
+- rule for dynamic group
+
+Azure AD roles
+
+- when creating group, yes indicates azure ad roles can be assigned
+
+### Devices:
+
+Register-known+manage
+
+Join (register+) - login with aad users
+
+## AAD SKus:
+
+Different subscriptions. Capabilities
+
+Free sku can replicate ad to AAD. 
+
+Can only password writeback to AD with premium license
+
+## Self service password reset
+
+passwordreset > self service password reset, can define what groups have this options.
+
+Methods used forpassword reset can be defined. Email, questions forexample.
+
+## Administrative units
+
+Roles in AAD - Global. Administrative units > add users/groups to it.
+
+cant manage people in the group whengroup is added to admin unit. 
+
+Administrative roles delegated through administrative unit. 
+
+manage attributes of the group but no management of people in group. A way of delegating some administrative permissions. Forexample: helpdesk.
+
+## Azure Subscriptions:
+
