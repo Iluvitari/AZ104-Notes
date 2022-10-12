@@ -1,7 +1,6 @@
 # AZ-104 AZ ADMIN
 
 ## Links
-
 - https://www.youtube.com/watch?v=qfd-t7jIF8g
 - https://www.examtopics.com/exams/microsoft/az-104/view/
 

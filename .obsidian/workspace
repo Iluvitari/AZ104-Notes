@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mindmaps/AZ104 summary.md",
+            "file": "AZ-104JohnSavillCram.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindmaps/AZ104 summary.md",
+                "file": "AZ-104JohnSavillCram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mindmaps/AZ104 summary.md",
+                "file": "AZ-104JohnSavillCram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mindmaps/AZ104 summary.md"
+                "file": "AZ-104JohnSavillCram.md"
               }
             }
           },
@@ -152,17 +152,17 @@
     "direction": "horizontal",
     "width": 212.5
   },
-  "active": "51fe0b9f8978d536",
+  "active": "858519d669b7ff02",
   "lastOpenFiles": [
-    "Mindmaps/Setting Conditional access.md",
-    "Mindmaps/AZ104 summary.md",
+    "MARKDOWN & HOTKEY CHEATSHEET.md",
+    "AZ-104JohnSavillCram.md",
+    "Mindmaps/AZ104 Summary Mindmap.md",
     "AZ Powershell/AZ Powershell Cheat sheet.md",
+    "Mindmaps/Setting Conditional access.md",
     "Mindmaps/Studymethods.md",
     "Azure/AZ-104 ICS Subject breakdown.md",
     "Azure/AZ fundamentals.md",
     "New file example.md",
-    "2022-10-12.md",
-    "Azure/Azure Lester Lecture.md",
-    "AZ-104JohnSavillCram.md"
+    "2022-10-12.md"
   ]
 }
