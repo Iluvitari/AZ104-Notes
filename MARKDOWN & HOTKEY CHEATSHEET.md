@@ -13,7 +13,12 @@
 - link specific line: [[]] with page^line inside (pulls just line for preview)
 - link specific block with content: [[]] with page#block inside
 - script 3x backtick 
-
+-  **inline** ~~text~~ *styles*
+- `inline code`
+    ```js
+    console.log('code block');
+    ```
+- Latex - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 
 Open link in edit mode (cmd-click on link)
 Toggle edit/preview (cmd-e)

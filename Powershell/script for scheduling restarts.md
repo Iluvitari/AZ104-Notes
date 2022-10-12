@@ -1,1 +1,0 @@
-Register-ScheduledJob -ScriptBlock {Restart-Computer -Force} -Name "Scheduled Restart" -Trigger (New-JobTrigger -Once -At DateTime) -ScheduledJobOption (New-ScheduledJobOption -RunElevated)

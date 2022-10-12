@@ -25,16 +25,7 @@
 
 
 ## Encoding
-
--
-
-
-
-
- links
  **inline** ~~text~~ *styles*
- multiline
-  text
  `inline code`
 
     ```js
