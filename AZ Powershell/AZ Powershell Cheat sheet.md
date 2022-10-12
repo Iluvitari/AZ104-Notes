@@ -1,4 +1,4 @@
-# Az Cheat sheet
+# Az Powershell Cheat sheet
 
 ## Creating New Vms:
 ### Linux:

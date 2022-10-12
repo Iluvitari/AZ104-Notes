@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "80e9a9e0e8744df0",
+        "id": "51fe0b9f8978d536",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mindmaps/AZ104/AZ Cheat sheet.md",
+            "file": "Mindmaps/Setting Conditional access.md",
             "mode": "source",
             "source": false
           }
@@ -70,6 +70,7 @@
       {
         "id": "e83caa9d875e2fbf",
         "type": "tabs",
+        "dimension": 33.22834645669291,
         "children": [
           {
             "id": "d69316a88069e03e",
@@ -84,6 +85,7 @@
       {
         "id": "bbcec5c64615f199",
         "type": "tabs",
+        "dimension": 66.77165354330708,
         "children": [
           {
             "id": "3da3f64b3d6371e8",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindmaps/AZ104/AZ Cheat sheet.md",
+                "file": "Mindmaps/Setting Conditional access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mindmaps/AZ104/AZ Cheat sheet.md",
+                "file": "Mindmaps/Setting Conditional access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mindmaps/AZ104/AZ Cheat sheet.md"
+                "file": "Mindmaps/Setting Conditional access.md"
               }
             }
           },
@@ -143,23 +145,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 453.5
   },
-  "active": "80e9a9e0e8744df0",
+  "active": "51fe0b9f8978d536",
   "lastOpenFiles": [
-    "Mindmaps/AZ104/Setting Conditional access.md",
-    "Mindmaps/AZ104/AZ104 summary.md",
-    "Mindmaps/AZ104/AZ Cheat sheet.md",
+    "Mindmaps/Studymethods.md",
+    "Mindmaps/AZ104 summary.md",
     "Azure/AZ-104 ICS Subject breakdown.md",
-    "Azure/Azure Lester Lecture.md",
     "Azure/AZ fundamentals.md",
-    "AZ-104JohnSavillCram.md",
-    "Powershell/Month of Lunches Notes.md",
-    "Prerequisites-for-Azure-administrators.md",
-    "MARKDOWN & HOTKEY CHEATSHEET.md"
+    "AZ Powershell/AZ Powershell Cheat sheet.md",
+    "New file example.md",
+    "2022-10-12.md",
+    "Mindmaps/Setting Conditional access.md",
+    "Azure/Azure Lester Lecture.md",
+    "AZ-104JohnSavillCram.md"
   ]
 }
