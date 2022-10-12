@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AZ-104.md",
-            "mode": "source",
+            "file": "MARKDOWN & HOTKEY CHEATSHEET.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 159.5
   },
   "right": {
     "id": "fc140d0b30f75cf8",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ-104.md",
+                "file": "MARKDOWN & HOTKEY CHEATSHEET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ-104.md",
+                "file": "MARKDOWN & HOTKEY CHEATSHEET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ-104.md"
+                "file": "MARKDOWN & HOTKEY CHEATSHEET.md"
               }
             }
           },
@@ -145,24 +145,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 205.5
   },
-  "active": "858519d669b7ff02",
+  "active": "51fe0b9f8978d536",
   "lastOpenFiles": [
-    "MARKDOWN & HOTKEY CHEATSHEET.md",
     "AZ-104.md",
+    "Identity and Azure AD.md",
+    "Azure AD/Azure AD.md",
+    "MARKDOWN & HOTKEY CHEATSHEET.md",
     "Mindmaps/AZ104 Summary Mindmap.md",
     "AZ Powershell/AZ Powershell Cheat sheet.md",
     "Mindmaps/Setting Conditional access.md",
     "Mindmaps/Studymethods.md",
     "Azure/AZ-104 ICS Subject breakdown.md",
-    "Azure/AZ fundamentals.md",
-    "New file example.md",
-    "2022-10-12.md"
+    "Azure/AZ fundamentals.md"
   ]
 }
