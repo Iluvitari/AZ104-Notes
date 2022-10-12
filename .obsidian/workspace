@@ -7,8 +7,12 @@
         "id": "80e9a9e0e8744df0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mindmaps/AZ104/AZ Cheat sheet.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -87,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mindmaps/AZ104/AZ Cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mindmaps/AZ104/AZ Cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mindmaps/AZ104/AZ Cheat sheet.md"
+              }
             }
           },
           {
@@ -135,24 +143,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 202.5
   },
-  "active": "db355c56b2897cb2",
+  "active": "80e9a9e0e8744df0",
   "lastOpenFiles": [
+    "Mindmaps/AZ104/Setting Conditional access.md",
+    "Mindmaps/AZ104/AZ104 summary.md",
+    "Mindmaps/AZ104/AZ Cheat sheet.md",
+    "Azure/AZ-104 ICS Subject breakdown.md",
     "Azure/Azure Lester Lecture.md",
     "Azure/AZ fundamentals.md",
     "AZ-104JohnSavillCram.md",
     "Powershell/Month of Lunches Notes.md",
     "Prerequisites-for-Azure-administrators.md",
-    "MARKDOWN & HOTKEY CHEATSHEET.md",
-    "Mindmaps/Study methods/Studymethods.md",
-    "Mindmaps/AZ104/AZ104 summary.md",
-    "Mindmaps/AZ104/Setting Conditional access.md",
-    "Mindmaps/AZ104/AZ Cheat sheet.md"
+    "MARKDOWN & HOTKEY CHEATSHEET.md"
   ]
 }
