@@ -1,0 +1,1 @@
+Restart-Computer -ComputerName 'wwfuk-careweb04' -Wait -For 'Wmi' -Force

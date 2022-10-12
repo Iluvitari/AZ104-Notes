@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "3744dc2a6e4f5dfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "80e9a9e0e8744df0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdc1348541462784",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c8b29ed8467edbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "858519d669b7ff02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d65b30c65a40d3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8361c36425b942b4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc140d0b30f75cf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e83caa9d875e2fbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69316a88069e03e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bbcec5c64615f199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3da3f64b3d6371e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f95b8b2b105791b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93097d1e76822776",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "edc6c6b674d12393",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "db355c56b2897cb2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "80e9a9e0e8744df0",
+  "lastOpenFiles": [
+    "Azure/AZ-104 ICS Subject breakdown.md",
+    "Azure/Azure Lester Lecture.md",
+    "MARKDOWN & HOTKEY CHEATSHEET.md",
+    "Powershell/Powershell cheat sheet.md",
+    "Powershell/Month of Lunches Notes.md",
+    "Azure/AZ fundamentals.md",
+    "2022-07-20.md",
+    "Powershell/script for scheduling restarts.md",
+    "Powershell/Random Helpful Work commands.md",
+    "Powershell/Powershell notes.md"
+  ]
+}
