@@ -7,8 +7,12 @@
         "id": "80e9a9e0e8744df0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mindmaps/Study methods/Studymethods.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -87,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mindmaps/Study methods/Studymethods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mindmaps/Study methods/Studymethods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mindmaps/Study methods/Studymethods.md"
+              }
             }
           },
           {
@@ -135,24 +143,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202.5
   },
   "active": "80e9a9e0e8744df0",
   "lastOpenFiles": [
+    "Mindmaps/AZ104/AZ104 summary.md",
+    "Mindmaps/AZ104/Setting Conditional access.md",
+    "Mindmaps/AZ104/AZ Cheat sheet.md",
     "Azure/AZ-104 ICS Subject breakdown.md",
     "Azure/Azure Lester Lecture.md",
     "MARKDOWN & HOTKEY CHEATSHEET.md",
     "Powershell/Powershell cheat sheet.md",
     "Powershell/Month of Lunches Notes.md",
     "Azure/AZ fundamentals.md",
-    "2022-07-20.md",
-    "Powershell/script for scheduling restarts.md",
-    "Powershell/Random Helpful Work commands.md",
-    "Powershell/Powershell notes.md"
+    "2022-07-20.md"
   ]
 }
