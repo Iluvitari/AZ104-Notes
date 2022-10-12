@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mindmaps/Setting Conditional access.md",
+            "file": "Mindmaps/AZ104 summary.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindmaps/Setting Conditional access.md",
+                "file": "Mindmaps/AZ104 summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mindmaps/Setting Conditional access.md",
+                "file": "Mindmaps/AZ104 summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mindmaps/Setting Conditional access.md"
+                "file": "Mindmaps/AZ104 summary.md"
               }
             }
           },
@@ -150,18 +150,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 212.5
   },
   "active": "51fe0b9f8978d536",
   "lastOpenFiles": [
-    "Mindmaps/Studymethods.md",
+    "Mindmaps/Setting Conditional access.md",
     "Mindmaps/AZ104 summary.md",
+    "AZ Powershell/AZ Powershell Cheat sheet.md",
+    "Mindmaps/Studymethods.md",
     "Azure/AZ-104 ICS Subject breakdown.md",
     "Azure/AZ fundamentals.md",
-    "AZ Powershell/AZ Powershell Cheat sheet.md",
     "New file example.md",
     "2022-10-12.md",
-    "Mindmaps/Setting Conditional access.md",
     "Azure/Azure Lester Lecture.md",
     "AZ-104JohnSavillCram.md"
   ]
