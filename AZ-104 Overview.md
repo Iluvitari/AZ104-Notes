@@ -43,10 +43,12 @@ No DC for [[Azure AD]]
 ### Synchronisation Onprem to Cloud:
 - AAD connect/AAD connect cloud sync: AD source of truth but replicated to AAD.
 
-### Tenant:
+## Tenant:
+= Default name/Primary domain name
+- Can add custom domain name.
 
-- AAD outside of subscriptions.
-- sub trusts AAD instance. Domain
+- AAD lives outside of subscriptions.
+- subs trusts AAD instance. Domain
 
 Applications are told what AAD instance is trusted as the source of identity.
 
