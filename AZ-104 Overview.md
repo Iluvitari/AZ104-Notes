@@ -34,9 +34,10 @@ Authentication:
 Programatic:
 - LDAP
 
-On Prem doesn't work well for internet
+On-Prem doesn't work well for internet
 
 No DC for Azure AD
+
 ## AAD Connect and customisation:
 
 -- AAD connect/AAD connect cloud sync: AD source of truth but replicated to AAD.
