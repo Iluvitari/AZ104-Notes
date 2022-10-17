@@ -3,12 +3,12 @@ Source: https://www.youtube.com/watch?v=VOod_VNgdJk
 
 ## Things to do:
 Microsoft learn
-John Savills master class
+John Savill's master class
 PluralSight 
 Mocks
 
 # [[Azure AD]]
-## Identity and Azure AD
+## Identity
 Ident provider for cloud services - AAD
 
 - OIDC
