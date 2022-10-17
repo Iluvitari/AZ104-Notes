@@ -9,24 +9,20 @@ Mocks
 
 # [[Azure AD]]
 ## Identity
-Ident provider for cloud services - AAD
-
+Identity provider for cloud services - [[Azure AD]]
+Cloud Protocols:
 - OIDC
-
 - SAML
-
 - WS-FED
 
-  Authorisation:
-
+Authorisation:
 - Oauth2
 
 Function over HTTPS/work over internet
 
-Application talking to AAD:
-
+Applications talking to [[Azure AD]] ():
 - Rest API
-  - MSGRAPH
+- MSGRAPH
 
 SaaS > use AAD as identify provider
 
