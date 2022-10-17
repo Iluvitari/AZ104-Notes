@@ -11,7 +11,6 @@ Mocks
 ## Identity and Azure AD
 Ident provider for cloud services - AAD
 
-{
 - OIDC
 
 - SAML
@@ -21,8 +20,6 @@ Ident provider for cloud services - AAD
   Authorisation:
 
 - Oauth2
-
-}
 
 Function over HTTPS/work over internet
 
