@@ -158,12 +158,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 205.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "51fe0b9f8978d536",
+  "active": "db355c56b2897cb2",
   "lastOpenFiles": [
     "AZ-104.md",
     "Identity and Azure AD.md",
