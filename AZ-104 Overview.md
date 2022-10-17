@@ -10,17 +10,17 @@ Mocks
 # [[Azure AD]]
 ## Identity
 Identity provider for cloud services - [[Azure AD]]
-Cloud Protocols:
+### Cloud Protocols:
 - OIDC
 - SAML
 - WS-FED
 
-Authorisation:
+### Authorisation:
 - Oauth2
 
 Function over HTTPS/work over internet
 
-Applications talking to [[Azure AD]] (talk programatically):
+### Applications talking to [[Azure AD]] (talk programatically):
 - Rest API
 - MSGRAPH
 
@@ -45,8 +45,7 @@ No DC for [[Azure AD]]
 
 ### Tenant:
 
-AAD outside of subscriptions.
-
+- AAD outside of subscriptions.
 - sub trusts AAD instance. Domain
 
 Applications are told what AAD instance is trusted as the source of identity.
