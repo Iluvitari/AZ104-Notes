@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 159.5
+    "width": 159.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc140d0b30f75cf8",
@@ -164,7 +165,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "858519d669b7ff02",
+  "active": "51fe0b9f8978d536",
   "lastOpenFiles": [
     "Mindmaps/AZ104 Summary Mindmap.md",
     "Azure AD/Azure AD.md",

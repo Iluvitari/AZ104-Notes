@@ -27,7 +27,7 @@ Applications talking to [[Azure AD]] (talk programatically):
 SaaS > use [[Azure AD]] as identify provider
 Azure/Microsoft 365 > use [[Azure AD]] as identify provider
 
-On-premise AD: 
+### On-premise AD: 
 Authentication:
 - kerberos
 - NTLM
@@ -36,13 +36,14 @@ Programatic:
 
 On-Prem doesn't work well for internet
 
-No DC for Azure AD
+No DC for [[Azure AD]]
 
-## AAD Connect and customisation:
+## AAD Connect and customization:
 
--- AAD connect/AAD connect cloud sync: AD source of truth but replicated to AAD.
+### Synchronisation Onprem to Cloud:
+- AAD connect/AAD connect cloud sync: AD source of truth but replicated to AAD.
 
-Tenant:
+### Tenant:
 
 AAD outside of subscriptions.
 
