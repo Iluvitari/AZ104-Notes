@@ -27,16 +27,16 @@ Applications talking to [[Azure AD]] (talk programatically):
 SaaS > use [[Azure AD]] as identify provider
 Azure/Microsoft 365 > use [[Azure AD]] as identify provider
 
--
-
-Regular AD: 
-
-- Speaks kerberos
+On-premise AD: 
+Authentication:
+- kerberos
 - NTLM
+Programatic:
 - LDAP
 
-Doesnt work well for internet
+On Prem doesn't work well for internet
 
+No DC for Azure AD
 ## AAD Connect and customisation:
 
 -- AAD connect/AAD connect cloud sync: AD source of truth but replicated to AAD.
