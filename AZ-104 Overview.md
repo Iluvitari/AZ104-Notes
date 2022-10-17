@@ -42,6 +42,7 @@ No DC for [[Azure AD]]
 
 ### Synchronisation Onprem to Cloud:
 - AAD connect/AAD connect cloud sync: AD source of truth but replicated to AAD.
+
 ###  Customisation
 
 ## Tenant:
@@ -51,6 +52,8 @@ No DC for [[Azure AD]]
 - AAD lives outside of subscriptions.
 - subs trust the AAD instance.
 - Domain Applications are told what AAD instance is trusted as the source of identity.
+
+# BOOKMARK 10:45
 
 ## Users:
 
