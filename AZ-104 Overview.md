@@ -20,13 +20,12 @@ Authorisation:
 
 Function over HTTPS/work over internet
 
-Applications talking to [[Azure AD]] ():
+Applications talking to [[Azure AD]] (talk programatically):
 - Rest API
 - MSGRAPH
 
-SaaS > use AAD as identify provider
-
- Azure > use AAD as identify provider
+SaaS > use [[Azure AD]] as identify provider
+Azure/Microsoft 365 > use [[Azure AD]] as identify provider
 
 -
 
