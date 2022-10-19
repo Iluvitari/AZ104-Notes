@@ -44,6 +44,8 @@ No DC for [[Azure AD]]
 - AAD connect/AAD connect cloud sync: AD source of truth but replicated to AAD.
 
 ###  Customisation
+- Company branding
+- Logon text/images/logos
 
 ## Tenant:
 = Default name/Primary domain name
@@ -55,7 +57,7 @@ No DC for [[Azure AD]]
 
 ## Users:
 
-Directory synced: Yes/No - Yes it came from on prem AD
+- Directory synced: Yes/No - Yes it came from on prem AD via AAD Connect
 
 Example: Different Azure AD tenant/gmail.msa > can add as guest users in AAD. Objects then can be given permissions for connected applications and services.
 
