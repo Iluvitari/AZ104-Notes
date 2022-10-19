@@ -115,5 +115,8 @@ No DC for [[Azure AD]]
 - Administrative roles delegated through administrative unit. 
 - Manage attributes of the group but no management of people in group. A way of delegating some administrative permissions. For example: help desk.
 
-## Azure Subscriptions:
+# [[Azure Subscriptions]]:
+- Each sub *trusts* particular AZAD Tenant
+- Azure is consumption based
+	- Pay for what you use
 
