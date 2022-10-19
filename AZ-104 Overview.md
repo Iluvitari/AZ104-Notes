@@ -107,11 +107,13 @@ No DC for [[Azure AD]]
 - Roles and Administrators in AAD
 	- Descriptions provided of what roles do when going into them
 	- Roles = permission sets
+		- Global
 
 ## Administrative units
+ - Roles in AAD - Global. Administrative units > add users/groups to it.
 - Cant manage people in the group when group is added to admin unit.
 - Administrative roles delegated through administrative unit. 
-- manage attributes of the group but no management of people in group. A way of delegating some administrative permissions. Forexample: helpdesk.
+- Manage attributes of the group but no management of people in group. A way of delegating some administrative permissions. For example: help desk.
 
 ## Azure Subscriptions:
 
