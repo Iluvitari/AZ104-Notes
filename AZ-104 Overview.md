@@ -95,17 +95,15 @@ No DC for [[Azure AD]]
 
 ## AAD SKus:
 
-- Different subscriptions. Capabilities
-
+- Different subscriptions. Bring different capabilities
 - Free sku can replicate ad to AAD. 
-
-- Can only password writeback to AD with premium license
+- Can only password write back to AD with premium license
 
 ## Self service password reset
 
-passwordreset > self service password reset, can define what groups have this options.
+- password reset > self service password reset, can define what groups have this options.
 
-Methods used forpassword reset can be defined. Email, questions forexample.
+- Methods used for password reset can be defined. Email, questions for example.
 
 ## Administrative units
 
