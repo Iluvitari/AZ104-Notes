@@ -95,11 +95,11 @@ No DC for [[Azure AD]]
 
 ## AAD SKus:
 
-Different subscriptions. Capabilities
+- Different subscriptions. Capabilities
 
-Free sku can replicate ad to AAD. 
+- Free sku can replicate ad to AAD. 
 
-Can only password writeback to AD with premium license
+- Can only password writeback to AD with premium license
 
 ## Self service password reset
 
