@@ -119,4 +119,8 @@ No DC for [[Azure AD]]
 - Each sub *trusts* particular AZAD Tenant
 - Azure is consumption based
 	- Pay for what you use
+	- Autoscale
+
+## Cost analysis and budget
+
 
