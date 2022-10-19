@@ -94,26 +94,20 @@ No DC for [[Azure AD]]
 	- Have to have MFA
 
 ## AAD SKus:
-
 - Different subscriptions. Bring different capabilities
 - Free sku can replicate ad to AAD. 
 - Can only password write back to AD with premium license
 
 ## Self service password reset
-
+- Link to reset password themselves
 - password reset > self service password reset, can define what groups have this options.
-
 - Methods used for password reset can be defined. Email, questions for example.
 
 ## Administrative units
-
-Roles in AAD - Global. Administrative units > add users/groups to it.
-
-cant manage people in the group whengroup is added to admin unit. 
-
-Administrative roles delegated through administrative unit. 
-
-manage attributes of the group but no management of people in group. A way of delegating some administrative permissions. Forexample: helpdesk.
+- Roles in AAD - Global. Administrative units > add users/groups to it.
+- cant manage people in the group whengroup is added to admin unit.
+- Administrative roles delegated through administrative unit. 
+- manage attributes of the group but no management of people in group. A way of delegating some administrative permissions. Forexample: helpdesk.
 
 ## Azure Subscriptions:
 
