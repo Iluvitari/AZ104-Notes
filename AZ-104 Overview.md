@@ -64,16 +64,15 @@ No DC for [[Azure AD]]
 	- Objects then can be given permissions for connected applications and services.
 - New user/invite user (guest user from gmail, another aad instance etc)
 - wont replicate back to on prem.
-
-Bulk creation:
-
-- csv template for bulk users.
-- also powershell can bulk create via script
+- Bulk creation:
+	- csv template for bulk users.
+	- also powershell can bulk create via script
+- Add users to groups
+	- Give group permission to resource
 
 ## Groups:
-
 - Can replicate from on-prem to aad
-
+- 
 Cloud groups:
 
 - Dynamic groups, automatically added to groups based on some defined attributes
