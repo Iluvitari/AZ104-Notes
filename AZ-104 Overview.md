@@ -105,7 +105,9 @@ No DC for [[Azure AD]]
 
 ## Administrative units
 - Roles in AAD - Global. Administrative units > add users/groups to it.
-- cant manage people in the group whengroup is added to admin unit.
+	- Descriptions provided of what roles do when going into them
+	- Roles = permission sets
+- Cant manage people in the group when group is added to admin unit.
 - Administrative roles delegated through administrative unit. 
 - manage attributes of the group but no management of people in group. A way of delegating some administrative permissions. Forexample: helpdesk.
 
