@@ -58,8 +58,10 @@ No DC for [[Azure AD]]
 ## Users:
 
 - Directory synced: Yes/No - Yes it came from on prem AD via AAD Connect
-
-Example: Different Azure AD tenant/gmail.msa > can add as guest users in AAD. Objects then can be given permissions for connected applications and services.
+- Guest accounts
+	- Example: Different Azure AD tenant/gmail/msa > can be added as guest users in AAD.
+	- Authorization controlled at AAD
+	- Objects then can be given permissions for connected applications and services.
 
 New user/invite user (guest user from gmail, another aad instance etc)
 
