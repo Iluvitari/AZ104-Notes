@@ -53,8 +53,6 @@ No DC for [[Azure AD]]
 - subs trust the AAD instance.
 - Domain Applications are told what AAD instance is trusted as the source of identity.
 
-# BOOKMARK 10:45
-
 ## Users:
 
 Directory synced: Yes/No - Yes it came from on prem AD
