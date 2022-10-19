@@ -62,9 +62,7 @@ No DC for [[Azure AD]]
 	- Example: Different Azure AD tenant/gmail/msa > can be added as guest users in AAD.
 	- Authorization controlled at AAD
 	- Objects then can be given permissions for connected applications and services.
-
 - New user/invite user (guest user from gmail, another aad instance etc)
-
 - wont replicate back to on prem.
 
 Bulk creation:
@@ -74,7 +72,7 @@ Bulk creation:
 
 ## Groups:
 
-Replicates from on prem to aad
+- Can replicate from on-prem to aad
 
 Cloud groups:
 
