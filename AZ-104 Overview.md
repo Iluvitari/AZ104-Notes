@@ -63,7 +63,7 @@ No DC for [[Azure AD]]
 	- Authorization controlled at AAD
 	- Objects then can be given permissions for connected applications and services.
 
-New user/invite user (guest user from gmail, another aad instance etc)
+- New user/invite user (guest user from gmail, another aad instance etc)
 
 - wont replicate back to on prem.
 
