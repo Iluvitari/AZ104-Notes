@@ -73,10 +73,10 @@ No DC for [[Azure AD]]
 ## Groups:
 - Can replicate from on-prem to aad
 - Cloud groups (not from on-prem):
-	- Dynamic groups, automatically added to groups based on some defined attributes
-	- Assigned/dynamic manual/automatic
+	- Groups can be dynamic, automatically added to groups based on some defined attributes/rules defined in group 
+	- Assigned (manually added)
+	- Dynamic (automatically added)
 	- Cant manually add to dynamic group
-	- rule for dynamic group
 - Azure AD roles
 	- when creating group, yes indicates azure ad roles can be assigned
 
