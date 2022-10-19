@@ -87,6 +87,8 @@ No DC for [[Azure AD]]
 		- known+manage (e.g. intune)
 	- Join (register+)
 		- login with AAD users (direct authentication)
+- Conditional access
+	- Rules enforced on Azure AD that determine what 
 
 ## AAD SKus:
 
