@@ -82,10 +82,11 @@ No DC for [[Azure AD]]
 		- Group can't be dynamic with this enabled
 
 ## Devices:
-
-Register-known+manage
-
-Join (register+) - login with aad users
+- Make it known to AAD:
+	- Register:
+		- known+manage (e.g. intune)
+	- Join (register+)
+		- login with AAD users (direct authentication)
 
 ## AAD SKus:
 
