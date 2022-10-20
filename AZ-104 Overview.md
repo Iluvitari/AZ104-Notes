@@ -122,5 +122,5 @@ No DC for [[Azure AD]]
 	- Autoscale
 
 ## Cost analysis and budget
-
+- 
 
