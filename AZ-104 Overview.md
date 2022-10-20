@@ -135,4 +135,7 @@ No DC for [[Azure AD]]
 - Roles and permissions set at levels down from resource group
 - Budget can be applied at resource group
 
-## Management 
+## Management groups
+- Root management group
+	- dev - prod
+		- 
