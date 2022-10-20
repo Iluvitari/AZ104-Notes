@@ -122,5 +122,9 @@ No DC for [[Azure AD]]
 	- Autoscale
 
 ## Cost analysis and budget
-- 
+- Cost management and billing
+	- management > cost analysis
+	- Budget can be set.
+		- alerts
+
 
