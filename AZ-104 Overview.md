@@ -145,4 +145,10 @@ No DC for [[Azure AD]]
 - Key value pair
 - Resources/resource groups/subscriptions
 - metadata
-- Tags 
+- Tags do not inherit down.
+	- policies can make children inherit tags from parent.
+
+## Policies
+# Bookmark https://www.youtube.com/watch?v=VOod_VNgdJk&t=7603s 36:38
+
+
