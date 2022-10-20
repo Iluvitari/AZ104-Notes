@@ -131,4 +131,8 @@ No DC for [[Azure AD]]
 - Resources inside group
 	- vms
 	- load balancer
-- 
+- Group them by common life cycle
+- Roles and permissions set at levels down from resource group
+- Budget can be applied at resource group
+
+## Management 
