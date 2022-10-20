@@ -138,4 +138,11 @@ No DC for [[Azure AD]]
 ## Management groups
 - Root management group
 	- dev - prod
-		- 
+		- locations
+			- subs
+
+## Tagging
+- Key value pair
+- Resources/resource groups/subscriptions
+- metadata
+- Tags 
