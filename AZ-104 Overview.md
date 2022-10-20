@@ -127,4 +127,8 @@ No DC for [[Azure AD]]
 	- Budget can be set.
 		- alerts
 
-
+## Resource Groups
+- Resources inside group
+	- vms
+	- load balancer
+- 
