@@ -176,6 +176,13 @@ No DC for [[Azure AD]]
 - Actions and dataactions - control - dataplane
 
 ## Activity log
+- Resources
+	- At control plane
+- Can be filtered to role assignments for example under operations.
+
+# [[Regions and Networking]]
+## Regions
+- 
 
 
 
