@@ -166,8 +166,13 @@ No DC for [[Azure AD]]
 - Separate from AAD
 - Custom roles can be added
 	- Roles are list of permissions
-	- Only at control plane
-- ARM
+	- Mainly at control plane
+- 
+
+## Control and data plane
+- Control -> ARM Azure Resource Manager
+	- Resources under ARM have actions in the data plane
+- Actions and dataactions - control - dataplane
 
 
 
