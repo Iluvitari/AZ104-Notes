@@ -159,6 +159,11 @@ No DC for [[Azure AD]]
 - Allowed locations can be selected in parameters of policies.
 
 ## Roles
+- Resource based access control
+- Assign role to an identity at a certain scope.
+	- Role assignment.
+- Could be management, resource group. rarely individual resources.
+- 
 
 
 
