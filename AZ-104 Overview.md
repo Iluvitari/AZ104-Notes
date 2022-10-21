@@ -151,6 +151,9 @@ No DC for [[Azure AD]]
 ## Policies
 - Guard rails
 	- These are the acceptable things to do
-- Policy can be created at management 
+- Policy can be created at management/resource/subscription
+- Enforced at azure resource manager
+- It can remediate if somethings out of policy.
+- 
 
 
