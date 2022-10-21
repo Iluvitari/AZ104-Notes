@@ -162,7 +162,8 @@ No DC for [[Azure AD]]
 - Resource based access control
 - Assign role to an identity at a certain scope.
 	- Role assignment.
-- Could be management, resource group. rarely individual resources.
+- Scope could be management, resource group. rarely individual resources.
+- Separate from AAD
 - 
 
 
