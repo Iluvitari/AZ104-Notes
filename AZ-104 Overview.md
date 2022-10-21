@@ -164,7 +164,11 @@ No DC for [[Azure AD]]
 	- Role assignment.
 - Scope could be management, resource group. rarely individual resources.
 - Separate from AAD
-- 
+- Custom roles can be added
+	- Roles are list of permissions
+	- Only at control plane
+- ARM
+
 
 
 
