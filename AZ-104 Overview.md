@@ -154,6 +154,6 @@ No DC for [[Azure AD]]
 - Policy can be created at management/resource/subscription
 - Enforced at azure resource manager
 - It can remediate if somethings out of policy.
-- 
+- Create/assign an initiative normally
 
 
