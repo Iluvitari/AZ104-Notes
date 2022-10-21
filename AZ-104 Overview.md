@@ -149,6 +149,8 @@ No DC for [[Azure AD]]
 	- policies can make children inherit tags from parent.
 
 ## Policies
-
+- Guard rails
+	- These are the acceptable things to do
+- Policy can be created at management 
 
 
