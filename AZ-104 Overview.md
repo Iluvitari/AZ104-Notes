@@ -149,6 +149,6 @@ No DC for [[Azure AD]]
 	- policies can make children inherit tags from parent.
 
 ## Policies
-# Bookmark https://www.youtube.com/watch?v=VOod_VNgdJk&t=7603s 36:38
+
 
 
