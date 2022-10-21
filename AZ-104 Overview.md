@@ -182,7 +182,12 @@ No DC for [[Azure AD]]
 
 # [[Regions and Networking]]
 ## Regions
-- 
+- When creating a resource, needs to be picked
+- Huge network around world
+	- Regions
+		- Latency envelope
+		- Different data centers in each region
+- `Get-AzEnviron`
 
 
 
