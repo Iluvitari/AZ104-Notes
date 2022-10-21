@@ -155,5 +155,10 @@ No DC for [[Azure AD]]
 - Enforced at azure resource manager
 - It can remediate if somethings out of policy.
 - Create/assign an initiative normally
+- Can see compliance of these policies
+- Allowed locations can be selected in parameters of policies.
+
+## Roles
+
 
 
