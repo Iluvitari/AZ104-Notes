@@ -191,7 +191,7 @@ No DC for [[Azure AD]]
 	- Can show different cloud environments
 	- Primarily deal with Commercial cloud.
 
-# BOOKMARK https://www.youtube.com/watch?v=VOod_VNgdJk&t=7603s 50min
+
 
 
 
