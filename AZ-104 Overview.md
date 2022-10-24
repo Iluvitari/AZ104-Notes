@@ -215,6 +215,12 @@ No DC for [[Azure AD]]
 	- Private ip ranges
 - Use unique IP space to communicate on prem
 - For each sub net lose 5 IPs.
+	- Net address
+	- Broadcast
+	- GW
+	- DNS
+- DHCP allocates first available IP to resource created in subnet
+	- Default can outbound to internet
 	- 
 
 
