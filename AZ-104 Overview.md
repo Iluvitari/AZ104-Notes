@@ -196,7 +196,15 @@ No DC for [[Azure AD]]
 	- fail over
 	- zone redundant-distributed
 	- zonal-in specific Az
-- Pick region based on consu
+- Pick region based on consumption
+
+## Paired regions
+- Asynchronous
+- replication
+- Azure key vault
+- check regional pairs for DR
+
+
 
 
 
