@@ -204,6 +204,14 @@ No DC for [[Azure AD]]
 - Azure key vault
 - check regional pairs for DR
 
+## Egress
+- Generally pay for Egress not ingress
+- Recommended watching AZ-700 video
+
+## Virtual network
+- Within sub/region
+- Broken down to sub nets
+- IPv4 and Ipv6 -rfc19
 
 
 
