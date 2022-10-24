@@ -211,7 +211,11 @@ No DC for [[Azure AD]]
 ## Virtual network
 - Within sub/region
 - Broken down to sub nets
-- IPv4 and Ipv6 -rfc19
+- IPv4 and Ipv6 (-rfc1918 common.)
+	- Private ip ranges
+- Use unique IP space to communicate on prem
+- For each sub net lose 5 IPs.
+	- 
 
 
 
