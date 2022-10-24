@@ -221,7 +221,11 @@ No DC for [[Azure AD]]
 	- DNS
 - DHCP allocates first available IP to resource created in subnet
 	- Default can outbound to internet
-	- 
+	- Public IP to loadbalancer to allow reachability in
+
+## Public Ips
+- Public Ips are bound to regions
+- 
 
 
 
