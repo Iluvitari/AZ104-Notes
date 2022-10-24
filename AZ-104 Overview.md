@@ -190,7 +190,9 @@ No DC for [[Azure AD]]
 - `Get-AzEnvironment`
 	- Can show different cloud environments
 	- Primarily deal with Commercial cloud.
-
+- Availability zone
+	- logical mappings
+	- independant power/
 
 
 
