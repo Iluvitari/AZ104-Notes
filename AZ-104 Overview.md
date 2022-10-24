@@ -192,7 +192,11 @@ No DC for [[Azure AD]]
 	- Primarily deal with Commercial cloud.
 - Availability zone
 	- logical mappings
-	- independant power/
+	- independent power/cooling/networking
+	- fail over
+	- zone redundant-distributed
+	- zonal-in specific Az
+- Pick region based on consu
 
 
 
