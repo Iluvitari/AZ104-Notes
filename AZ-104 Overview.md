@@ -236,7 +236,10 @@ No DC for [[Azure AD]]
 ## vNet peering
 - More than 1 virtual network to talk
 - Could be different subscription/tenant that it trusts
-- Regular peering or Global pee
+- Regular peering or Global peering for different regions
+- Different IP ranges
+- Peering virtual networks required on the networks being peered
+- 
 
 
 
