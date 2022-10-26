@@ -251,7 +251,12 @@ No DC for [[Azure AD]]
 		- IP
 		- Service tag
 		- ASG
-		- 
+		- vNets
+	- Port
+	- Actions: Allow/Deny
+- By default:
+	- VirtualNetwork (Known IP space of vNet)
+		- Can communicate inside Any/Any
 
 
 
