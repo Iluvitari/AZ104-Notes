@@ -230,7 +230,8 @@ No DC for [[Azure AD]]
 	- IPv4
 	- Ipv6
 - Standard is zone redundant
-- 
+- For setting ips statically > tell azure fabric what specific ip to assign when resource reaches out to DHCP
+	- Guest is se
 ## 
 
 
