@@ -231,9 +231,12 @@ No DC for [[Azure AD]]
 	- Ipv6
 - Standard is zone redundant
 - For setting ips statically > tell azure fabric what specific ip to assign when resource reaches out to DHCP
-	- Guest is se
-## 
+	- Guest is unaware > set to dchp
 
+## vNet peering
+- More than 1 virtual network to talk
+- Could be different subscription/tenant that it trusts
+- Regular peering or Global pee
 
 
 
