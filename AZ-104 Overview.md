@@ -263,7 +263,8 @@ No DC for [[Azure AD]]
 - Effective security rules shows NSGs in effect
 	- Effective routes as well
 
-## F
+## Firewalls and routing
+
 	
 
 
