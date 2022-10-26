@@ -219,14 +219,18 @@ No DC for [[Azure AD]]
 	- Broadcast
 	- GW
 	- DNS
-- DHCP allocates first available IP to resource created in subnet
+- DHCP allocates first available private IP to resource created in subnet
 	- Default can outbound to internet
-	- Public IP to loadbalancer to allow reachability in
+
 
 ## Public Ips
+ - Public IP to loadbalancer to allow reachability in rather than assign directly to resource
 - Public Ips are bound to regions
 - 2 types of public ip
-	- 
+	- IPv4
+	- Ipv6
+- Standard is zone redundant
+- 
 ## 
 
 
