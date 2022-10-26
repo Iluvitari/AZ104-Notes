@@ -225,9 +225,9 @@ No DC for [[Azure AD]]
 
 ## Public Ips
 - Public Ips are bound to regions
-
-https://www.youtube.com/watch?v=VOod_VNgdJk&t=7603s 1:07
-
+- 2 types of public ip
+	- 
+## 
 
 
 
