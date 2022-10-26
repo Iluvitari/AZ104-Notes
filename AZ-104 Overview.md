@@ -257,6 +257,9 @@ No DC for [[Azure AD]]
 - By default:
 	- VirtualNetwork (Known IP space of vNet)
 		- Can communicate inside Any/Any
+	- Allows Loadbalancer communication
+	- Deny everything else.
+
 
 
 
