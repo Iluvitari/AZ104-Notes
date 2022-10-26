@@ -265,7 +265,7 @@ No DC for [[Azure AD]]
 
 ## Firewalls and routing
 
-	
+	https://www.youtube.com/watch?v=VOod_VNgdJk 1:24
 
 
 
