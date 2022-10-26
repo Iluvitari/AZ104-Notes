@@ -241,7 +241,17 @@ No DC for [[Azure AD]]
 - Peering virtual networks required on the networks being peered
 - Other vNets can allow gateway transit so they can use the remote gateway and traffic can reach other locations.
 - vNets cant normally talk to each other and rather need a mesh of peers to work.
-- 
+
+## Network security groups (NSG)
+- Restrictions for communications
+- Multiple rules
+	- Priority
+	- rule name
+	- SRC & DEST
+		- IP
+		- Service tag
+		- ASG
+		- 
 
 
 
