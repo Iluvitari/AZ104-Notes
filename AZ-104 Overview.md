@@ -259,7 +259,12 @@ No DC for [[Azure AD]]
 		- Can communicate inside Any/Any
 	- Allows Loadbalancer communication
 	- Deny everything else.
+- Associate NSGs with particular subnets
+- Effective security rules shows NSGs in effect
+	- Effective routes as well
 
+## F
+	
 
 
 
