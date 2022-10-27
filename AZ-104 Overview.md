@@ -277,7 +277,14 @@ No DC for [[Azure AD]]
 	- connecting to subnet
 
 ## Azure DNS
-- 
+- Public
+	- host name records associated with ips
+		- cnames associated with the host
+- Private
+	- can be registered to vnets
+		- auto registered
+	- vnets can associate with private zones for resolving records
+
 
 
 
