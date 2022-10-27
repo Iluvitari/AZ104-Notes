@@ -286,7 +286,8 @@ No DC for [[Azure AD]]
 	- vnets can associate with private zones for resolving records
 
 ## site 2 site vpn
-- Requires gateway
+- Requires gateway subnet /27
+- can connect to any DC
 - 2 different types of vpn
 	- Policy
 		- Itunnel
@@ -294,6 +295,10 @@ No DC for [[Azure AD]]
 		- any n tunnels
 		- point 2 site vpn configurable
 - On prem gateway requires set up which supplies public IP representative of the network to connect then to azure gateway vpn
+
+## Express Route
+
+
 
 
 
