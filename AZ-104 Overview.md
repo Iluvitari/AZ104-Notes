@@ -285,6 +285,10 @@ No DC for [[Azure AD]]
 		- auto registered
 	- vnets can associate with private zones for resolving records
 
+## site 2 site vpn
+- 
+
+
 
 
 
