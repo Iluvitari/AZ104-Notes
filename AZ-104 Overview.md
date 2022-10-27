@@ -264,6 +264,13 @@ No DC for [[Azure AD]]
 	- Effective routes as well
 
 ## Firewalls and routing
+- NSG doesnt understand fqdn only operates level 4
+- Azure firewall does
+	- Resource deploys in to its own network
+- Own rules
+	- Nat
+	- network l4
+	- application l7
 - 
 
 
