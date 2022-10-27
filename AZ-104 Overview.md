@@ -272,9 +272,12 @@ No DC for [[Azure AD]]
 	- network l4
 	- application l7
 - restricting and controlling traffic
-	- Create routing tables 
+	- Create routing tables
+	- defining routes
+	- connecting to subnet
 
-
+## Azure DNS
+- 
 
 
 
