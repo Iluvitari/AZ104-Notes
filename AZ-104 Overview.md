@@ -271,7 +271,8 @@ No DC for [[Azure AD]]
 	- Nat
 	- network l4
 	- application l7
-- 
+- restricting and controlling traffic
+	- Create routing tables 
 
 
 
