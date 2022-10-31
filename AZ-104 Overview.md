@@ -307,7 +307,10 @@ No DC for [[Azure AD]]
 - Microsoft peering
 	- a service for route filtering for bgp purposes
 	- create a filter and add locations and services wanted to utilize the filter, add a circuit which will then offer chosen services
-- 
+
+## Virtual WAN
+
+bookmark : 1:50
 
 
 
