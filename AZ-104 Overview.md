@@ -303,7 +303,11 @@ No DC for [[Azure AD]]
 - This then uses a service called global reach to talk to other meet me points across the express route.
 	- Can be other locations we run eg
 - Talking to the internet it will talk from meet me point and pass back through gateway.
-	- Gatway is not use
+	- Gateway is not used when talking to meet me point
+- Microsoft peering
+	- a service for route filtering for bgp purposes
+	- create a filter and add locations and services wanted to utilize the filter, add a circuit which will then offer chosen services
+- 
 
 
 
