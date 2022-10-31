@@ -297,7 +297,7 @@ No DC for [[Azure AD]]
 - On prem gateway requires set up which supplies public IP representative of the network to connect then to azure gateway vpn
 
 ## Express Route
-1:40 https://www.youtube.com/watch?v=VOod_VNgdJk
+- 
 
 
 
