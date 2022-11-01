@@ -311,7 +311,12 @@ No DC for [[Azure AD]]
 	- create a filter and add locations and services wanted to utilize the filter, add a circuit which will then offer chosen services
 
 ## Virtual WAN
-
+- Instead of ER
+- Basic
+	- s2s
+- STD
+	- E/R
+	- 
 
 
 
