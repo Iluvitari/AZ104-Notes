@@ -297,6 +297,8 @@ No DC for [[Azure AD]]
 - On prem gateway requires set up which supplies public IP representative of the network to connect then to azure gateway vpn
 
 ## Express Route
+- not encrypted
+	- can run vpn gw over  ER
 - Runs on the azure backplane network
 - Meet me points across the network are where gateway will connect
 	- This is private peering.
@@ -310,7 +312,6 @@ No DC for [[Azure AD]]
 
 ## Virtual WAN
 
-bookmark : 1:50
 
 
 
