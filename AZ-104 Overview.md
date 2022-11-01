@@ -321,7 +321,10 @@ No DC for [[Azure AD]]
 	- Vnets peered
 		- with transitive communication
 	- Can connect to another vwan
-- With
+- With virtual routing we can skip multiple hops where resource nics cant span multiple networks.
+
+## Service Endpoints
+
 
 
 
