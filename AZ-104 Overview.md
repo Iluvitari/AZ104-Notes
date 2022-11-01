@@ -316,7 +316,12 @@ No DC for [[Azure AD]]
 	- s2s
 - STD
 	- E/R
-	- 
+	-  s2s
+	- P2S VPN
+	- Vnets peered
+		- with transitive communication
+	- Can connect to another vwan
+- With
 
 
 
