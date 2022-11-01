@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 159.5,
-    "collapsed": true
+    "width": 159.5
   },
   "right": {
     "id": "fc140d0b30f75cf8",
@@ -102,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AZ-104 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AZ-104 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AZ-104 Overview.md"
+              }
             }
           },
           {
@@ -158,7 +161,7 @@
     "width": 205.5,
     "collapsed": true
   },
-  "active": "d69316a88069e03e",
+  "active": "51fe0b9f8978d536",
   "lastOpenFiles": [
     "AZ-104 Overview.md",
     "Mindmaps/AZ104 Summary Mindmap.md",
