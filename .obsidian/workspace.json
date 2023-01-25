@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508.5
+    "width": 508.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51fe0b9f8978d536",
+  "active": "db355c56b2897cb2",
   "lastOpenFiles": [
     "AZ-104 Overview.md",
     "Mindmaps/AZ104 Summary Mindmap.md",
