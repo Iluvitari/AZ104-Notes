@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a93db48365b6d937",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a93db48365b6d937",
+  "active": "51fe0b9f8978d536",
   "lastOpenFiles": [
     "AZ-104 Overview.md",
     "Mindmaps/AZ104 Summary Mindmap.md",
