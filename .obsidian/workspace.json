@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 159.5,
-    "collapsed": true
+    "width": 159.5
   },
   "right": {
     "id": "fc140d0b30f75cf8",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindmaps/AZ104 Summary Mindmap.md",
+                "file": "AZ-104 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mindmaps/AZ104 Summary Mindmap.md",
+                "file": "AZ-104 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mindmaps/AZ104 Summary Mindmap.md"
+                "file": "AZ-104 Overview.md"
               }
             }
           },
@@ -181,14 +180,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d69316a88069e03e",
+  "active": "858519d669b7ff02",
   "lastOpenFiles": [
-    "AZ-104 Overview.md",
     "Mindmaps/AZ104 Summary Mindmap.md",
+    "AZ Powershell/AZ Powershell Cheat sheet.md",
     "Azure AD/Azure AD.md",
+    "AZ-104 Overview.md",
     "MARKDOWN & HOTKEY CHEATSHEET.md",
     "Identity and Azure AD.md",
-    "AZ Powershell/AZ Powershell Cheat sheet.md",
     "Mindmaps/Setting Conditional access.md",
     "Mindmaps/Studymethods.md",
     "Azure/AZ-104 ICS Subject breakdown.md",
