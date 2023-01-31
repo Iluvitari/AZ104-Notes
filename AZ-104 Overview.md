@@ -349,6 +349,9 @@ No DC for [[Azure AD]]
 - Free/standard pricing
 	- free = non redundant
 
+# [[Storage]]
+
+# 
 
 
 
