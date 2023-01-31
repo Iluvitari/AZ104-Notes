@@ -333,7 +333,13 @@ No DC for [[Azure AD]]
 
 ## Private Endpoints
 - Allows connection from all different places
-- Private endpoint connections tab in netw
+- Private endpoint connections tab in networking
+	- Just an IP with blob that can be cnamed in dns
+- Private endpoint aliases to private link connection
+- Can add a service that is in a vnet which overlaps your vnet
+
+## Azure Load Balancer
+
 
 
 
