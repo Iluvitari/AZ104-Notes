@@ -351,7 +351,7 @@ No DC for [[Azure AD]]
 
 # [[Storage]]
 
-# 
+# [[Virtual Machines]]
 
 
 
