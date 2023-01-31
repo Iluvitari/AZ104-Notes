@@ -343,10 +343,12 @@ No DC for [[Azure AD]]
 	- protocol/port/ip
 		- pools
 - Rules
-- 5,3,2 tuples
-- Nat rule
-- Matches > move to 
-
+	- 5,3,2 tuples
+	- Nat rule
+	- Matches > move to pool
+- Free/standard pricing
+	- free = non redundant
+- 
 
 
 
