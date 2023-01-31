@@ -324,7 +324,12 @@ No DC for [[Azure AD]]
 - With virtual routing we can skip multiple hops where resource nics cant span multiple networks.
 
 ## Service Endpoints
-
+- Subnets require service endpoints
+	- Will be flagged when associating resources with a subnet
+- Flow to PAS services
+	- Control of flow to outside the vnet
+- allowed access from private ip range
+	- Making a private IP known to a service
 
 
 
