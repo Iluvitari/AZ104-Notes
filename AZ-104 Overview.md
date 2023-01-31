@@ -339,7 +339,13 @@ No DC for [[Azure AD]]
 - Can add a service that is in a vnet which overlaps your vnet
 
 ## Azure Load Balancer
-
+- "Azure Load Balancer"
+	- protocol/port/ip
+		- pools
+- Rules
+- 5,3,2 tuples
+- Nat rule
+- Matches > move to 
 
 
 
