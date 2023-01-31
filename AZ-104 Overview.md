@@ -348,7 +348,6 @@ No DC for [[Azure AD]]
 	- Matches > move to pool
 - Free/standard pricing
 	- free = non redundant
-- 
 
 
 
