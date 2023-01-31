@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 159.5
+    "width": 159.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc140d0b30f75cf8",
@@ -180,12 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "858519d669b7ff02",
+  "active": "51fe0b9f8978d536",
   "lastOpenFiles": [
     "Mindmaps/AZ104 Summary Mindmap.md",
+    "AZ-104 Overview.md",
     "AZ Powershell/AZ Powershell Cheat sheet.md",
     "Azure AD/Azure AD.md",
-    "AZ-104 Overview.md",
     "MARKDOWN & HOTKEY CHEATSHEET.md",
     "Identity and Azure AD.md",
     "Mindmaps/Setting Conditional access.md",

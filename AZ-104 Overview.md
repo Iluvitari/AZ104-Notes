@@ -331,6 +331,10 @@ No DC for [[Azure AD]]
 - allowed access from private ip range
 	- Making a private IP known to a service
 
+## Private Endpoints
+- Allows connection from all different places
+- Private endpoint connections tab in netw
+
 
 
 
