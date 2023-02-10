@@ -366,8 +366,15 @@ No DC for [[Azure AD]]
 - Regional solution
 
 ## Global solution
-- AZFTD? Azure
+- AZFront door
+	- L7
+- AZ global load balancer
+	- L4
+- DNS-Azure traffice management.
+
 # [[Storage]]
+## Storage Accounts
+
 
 # [[Virtual Machines]]
 
