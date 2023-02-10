@@ -348,6 +348,7 @@ No DC for [[Azure AD]]
 	- Matches > move to pool
 - Free/standard pricing
 	- free = non redundant
+- REgional solution
 
 ## Azure App Gateway
 - L7
@@ -362,8 +363,10 @@ No DC for [[Azure AD]]
 	- Path
 	- rewrite
 - Allow traffic route to Backend pools.
+- Regional solution
 
-
+## Global solution
+- AZFTD? Azure
 # [[Storage]]
 
 # [[Virtual Machines]]
