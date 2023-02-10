@@ -353,7 +353,16 @@ No DC for [[Azure AD]]
 - L7
 	- Http/s
 		- Websockets
-- 
+- Listener > ssl/cert
+	- Rules
+- Multisite
+	- fqdn>rule
+- Rule
+	- Bask
+	- Path
+	- rewrite
+- Allow traffic route to Backend pools.
+
 
 # [[Storage]]
 
