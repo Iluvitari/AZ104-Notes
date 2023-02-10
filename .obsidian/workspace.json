@@ -85,8 +85,12 @@
             "id": "d69316a88069e03e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mindmaps/AZ104 Summary Mindmap.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -159,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +184,11 @@
   "active": "51fe0b9f8978d536",
   "lastOpenFiles": [
     "Mindmaps/AZ104 Summary Mindmap.md",
+    "AZ-104 Overview.md",
+    "AZ Powershell/AZ Powershell Cheat sheet.md",
     "Azure AD/Azure AD.md",
     "MARKDOWN & HOTKEY CHEATSHEET.md",
-    "AZ-104 Overview.md",
     "Identity and Azure AD.md",
-    "AZ Powershell/AZ Powershell Cheat sheet.md",
     "Mindmaps/Setting Conditional access.md",
     "Mindmaps/Studymethods.md",
     "Azure/AZ-104 ICS Subject breakdown.md",
