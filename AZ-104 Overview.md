@@ -349,6 +349,12 @@ No DC for [[Azure AD]]
 - Free/standard pricing
 	- free = non redundant
 
+## Azure App Gateway
+- L7
+	- Http/s
+		- Websockets
+- 
+
 # [[Storage]]
 
 # [[Virtual Machines]]
