@@ -374,7 +374,9 @@ No DC for [[Azure AD]]
 
 # [[Storage]]
 ## Storage Accounts
-
+- Unique naming
+- Region specific
+- 
 
 # [[Virtual Machines]]
 
