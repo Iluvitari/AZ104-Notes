@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ-104 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ-104 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AZ-104 Overview.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,12 +171,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db355c56b2897cb2",
+  "active": "d69316a88069e03e",
   "lastOpenFiles": [
+    "AZ-104 Overview.md",
     "Mindmaps/AZ104 Summary Mindmap.md",
     "Azure AD/Azure AD.md",
     "MARKDOWN & HOTKEY CHEATSHEET.md",
-    "AZ-104 Overview.md",
     "Identity and Azure AD.md",
     "AZ Powershell/AZ Powershell Cheat sheet.md",
     "Mindmaps/Setting Conditional access.md",
