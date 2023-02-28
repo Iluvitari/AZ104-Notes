@@ -102,6 +102,11 @@ Premium file shares can only be hosted in storage accounts called "filestorage a
 Tiering is only supported by blob storage and general purpose v2
 Least cost method of redundancy is ZRS supported in v2/premium file/block storage. Not supported in V1.
 
+Alerting:
+Alert rules ca be configured to send emails and sms. 
+They are however rate limited and only 100 emails can be sent an hour. Only 1 sms can be sent in 5 minutes.
+
+Kubernetes:
 
 
 
