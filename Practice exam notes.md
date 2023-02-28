@@ -12,4 +12,8 @@ File recovery can be done from any machine on the internet but VM1 and VM2 only 
 
 Restoring VMs : Create new or replace existing options only
 
-Dns REcords: Created records in auto registration 
+Dns REcords: Created A records in auto registration will be private ips as a private zone in the same vnet
+
+
+
+
