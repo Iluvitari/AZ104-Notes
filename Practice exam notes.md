@@ -59,6 +59,7 @@ Tags:
 Tags can only be placed on Azure resources, resource groups and subscriptions.
 Policy can apply tags automatically.
 without remediation tasks then prior resources will not be affected by policy.
+If tags are no inherited then only tags from policy are applied
 
 Azure storage lifecycle management rules:
 Archived means data cannot be read unless it is rehydrated. Blob is offline.
