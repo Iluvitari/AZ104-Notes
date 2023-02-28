@@ -101,6 +101,8 @@ Storage:
 Premium file shares can only be hosted in storage accounts called "filestorage account"
 Tiering is only supported by blob storage and general purpose v2
 Least cost method of redundancy is ZRS supported in v2/premium file/block storage. Not supported in V1.
+v1 and v2 only for table storage
+vvvvvvvvvvvvvvvvvvvvvvvvv
 
 Alerting:
 Alert rules ca be configured to send emails and sms. 
@@ -134,3 +136,7 @@ Global admin needs assignment to access then then azure roles can be assigned to
 
 External identities in AAD:
 Adjust guest user settings, their access and who can invite them from , external collaboration settings in users.
+
+Azure Import/export:
+Can only be done for gen purpose v2 storage acounts, blob storage accounts and gen v1 storage accounts.
+Supported only or importing blob and file, exportin blob
