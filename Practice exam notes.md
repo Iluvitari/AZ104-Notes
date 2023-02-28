@@ -130,4 +130,7 @@ Oauth:
 Required for AKS auth from aad
 
 Root management group:
-Global admin needs assignment
+Global admin needs assignment to access then then azure roles can be assigned to users to manage it.
+
+External identities in AAD:
+Adjust guest user settings, their access and who can invite them from , external collaboration settings in users.
