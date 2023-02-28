@@ -97,3 +97,7 @@ Multiple server endpoints can exist on the same volume if their namespaces do no
 Azure site recovery:
 Storage accounts must be in same region as ASR vault
 
+Storage:
+Premium file shares can only be hosted in storage accounts called "filestorage account"
+Tiering is only supported by blob storage and general purpose v2
+
