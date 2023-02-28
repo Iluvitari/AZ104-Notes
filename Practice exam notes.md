@@ -96,13 +96,14 @@ Multiple server endpoints can exist on the same volume if their namespaces do no
 
 Azure site recovery:
 Storage accounts must be in same region as ASR vault
+Backups can only be done for resources in the same region.
 
 Storage:
 Premium file shares can only be hosted in storage accounts called "filestorage account"
 Tiering is only supported by blob storage and general purpose v2
 Least cost method of redundancy is ZRS supported in v2/premium file/block storage. Not supported in V1.
 v1 and v2 only for table storage
-vvvvvvvvvvvvvvvvvvvvvvvvv
+v1,v2 and blobstorage for blob storage
 
 Alerting:
 Alert rules ca be configured to send emails and sms. 
