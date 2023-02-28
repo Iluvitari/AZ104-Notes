@@ -71,7 +71,9 @@ A hyper V site, azure recovery services vault and replication policy are require
 VPN Gateway:
 If changes are made after VPN client package is installed on windows client then it needs to be downloaded and installed again to apply latest changes.
 
-
+Moving between subscriptions:
+VM and associated resources can be moved
+Also ASR Vault can be moved to new subscription
 
 
 
