@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "94bfdf53893e368b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AZ-104 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AZ-104 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AZ-104 Overview.md"
+              }
             }
           },
           {
@@ -182,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94bfdf53893e368b",
+  "active": "51fe0b9f8978d536",
   "lastOpenFiles": [
     "AZ-104 Overview.md",
     "Mindmaps/AZ104 Summary Mindmap.md",
