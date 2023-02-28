@@ -118,3 +118,5 @@ Docker push for deploying app to cluster
 Proximity placements:
 Proximity placements can only be associated with RGs in the same region.
 
+MFA usage model:
+
