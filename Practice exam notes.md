@@ -25,14 +25,16 @@ Auto registration cant take place if the dns zone isnt linked to a vnet. Vritual
 
 Vnet peering:
 Connecting vnets as long as address space does not overlap
+10.10.10.0 and 10.10.128.0 are different subnets
 
 NSG:
 Deny/allow rules
+If attach network interface option is available then vm is off
+Allow rule with a high pri
 
 ASG:
 Associated with VM nics for NSG targetting
 
-10.10.10.0 and 10.10.128.0 are different subnets
 
 
 
