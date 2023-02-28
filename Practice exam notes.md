@@ -12,12 +12,17 @@ File recovery can be done from any machine on the internet but VM1 and VM2 only 
 
 Restoring VMs : Create new or replace existing options only
 
-Dns REcords: Created A records in auto registration will be private ips as a private zone in the same vnet
+Dns REcords: 
+Created A records in auto registration will be private ips as a private zone in the same vnet
 Same vnet, regardless of dns suffix will exist in same private azure dns zone
 
-Auto registration for dns zones: all vms deployed in vnet will have dns records created to linked private dns zone
+Auto registration for dns zones: 
+all vms deployed in vnet will have dns records created to linked private dns zone
 Auto registration cant take place if the dns zone isnt linked to a vnet. Vritual link needs to be created
 	VNEts can only be linked to private dns zones
+	i.e. vm registers only to private dns zones in auto registration
+
+Vnet peering:
 
 
 
