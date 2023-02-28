@@ -123,4 +123,7 @@ Not possible to change the usage model of existing provider
 A new one must be created from new provider
 Cant change usage model after an MFA provider is created
 
+Load balancing:
+Back end pools are added by network contributors
+
 
