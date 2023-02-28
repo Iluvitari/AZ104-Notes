@@ -99,6 +99,7 @@ Multiple server endpoints can exist on the same volume if their namespaces do no
 Azure site recovery:
 Storage accounts must be in same region as ASR vault
 Backups can only be done for resources in the same region and storage blobs cannot be backed up to service vaults
+Backup pre-check may warn if the vm agent is not up to date.
 
 Storage:
 Premium file shares can only be hosted in storage accounts called "filestorage account"
@@ -116,6 +117,7 @@ Azure Portal and Azaks command can be used for cluster autoscaler config
 	AZ AKS is for AKS cluster config
 	In portal we can configure under node pools
 Autoscaling aks is referring to nodes, scaling nodes.
+AKS cluster uses calico network, policies are to be configured here instead of azure network for restricting network traffic to pods.
 
 Docker:
 Docker push for deploying app to cluster
@@ -132,6 +134,7 @@ Load balancing:
 Back end pools and health probes are added by network contributors
 To target a specific client for each request through load balancer a session percistence to a client IP needs to configuring
 Backend pools can only have vms attached with standard sku public ip config or no ip config. Dynamic public ip means basic sku ip no standard.
+
 
 Oauth:
 Required for AKS auth from aad
@@ -184,4 +187,4 @@ VM scale set consists of a set of identically configured vms, availability set i
 
 ARM template:
 Parameter platform-fault-domain-count, for setting as many as possible vms to be up in the case of a failure "maxvalue" should be configured.
-Maximum of 20 update domains can be assigned to availability set. 5 by d
+Maximum of 20 update domains can be assigned to availability set. 5 by default, this indicates groups of vms and hardware that can be rebooted at the sametime.
