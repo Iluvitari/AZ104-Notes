@@ -146,3 +146,7 @@ Azure blob storage/azure file storage can be destinations of imported data
 Azure monitor:
 Monitoring agent must be installed on vm 
 Log analytics is then the source of alerting after log analytics workspace is configured
+
+Network Watcher:
+To record successful connection attempts to vms we need an azure storage account, registered microsoft.insights andenabled azure network watcher flow logs.
+It is network traffic that flows through an nsg
