@@ -183,4 +183,5 @@ VM scale set consists of a set of identically configured vms, availability set i
 2 machines upgrading at anytime will mean 8 remaining up in a scale set. One availability set with 10 vms should be appropriate for an app deployment using 10 vms with no more than 2 down at one time for upgrades.
 
 ARM template:
-Parameter platform-fau
+Parameter platform-fault-domain-count, for setting as many as possible vms to be up in the case of a failure "maxvalue" should be configured.
+Maximum of 20 update domains can be assigned to availability set. 5 by d
