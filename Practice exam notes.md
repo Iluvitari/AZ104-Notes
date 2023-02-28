@@ -100,4 +100,5 @@ Storage accounts must be in same region as ASR vault
 Storage:
 Premium file shares can only be hosted in storage accounts called "filestorage account"
 Tiering is only supported by blob storage and general purpose v2
+Least cost method of 
 
