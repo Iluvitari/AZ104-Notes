@@ -58,6 +58,13 @@ Locks can only be placed on subscriptions, resource groups and resources.
 Tags:
 Tags can only be placed on Azure resources, resource groups and subscriptions
 
+Azure storage lifecycle management rules:
+Archived means data cannot be read unless it is rehydrated. Blob is offline.
+Data can be read in cool storage
+
+O
+
+
 
 
 
