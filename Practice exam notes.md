@@ -126,4 +126,8 @@ Cant change usage model after an MFA provider is created
 Load balancing:
 Back end pools and health probes are added by network contributors
 
+Oauth:
+Required for AKS auth from aad
 
+Root management group:
+Global admin needs assignment
