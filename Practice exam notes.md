@@ -30,11 +30,14 @@ Connecting vnets as long as address space does not overlap
 NSG:
 Deny/allow rules
 If attach network interface option is available then vm is off
-Allow rule with a high pri
+Allow rule with a high priority than a block rule will allow that target and then block all others
+
 
 ASG:
 Associated with VM nics for NSG targetting
 
+AAD SSPR:
+Only global admin can edit the security questions for SSPR
 
 
 
