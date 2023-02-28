@@ -107,6 +107,11 @@ Alert rules ca be configured to send emails and sms.
 They are however rate limited and only 100 emails can be sent an hour. Only 1 sms can be sent in 5 minutes.
 
 Kubernetes:
+Azure Portal and Azaks command can be used for cluster autoscaler config
+	AZ AKS is for AKS cluster config
+	In portal we can configure under node pools
+Autoscaling aks is referring to nodes, scaling nodes.
 
-
+Docker:
+Docker push
 
