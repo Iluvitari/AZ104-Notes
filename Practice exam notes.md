@@ -113,5 +113,7 @@ Azure Portal and Azaks command can be used for cluster autoscaler config
 Autoscaling aks is referring to nodes, scaling nodes.
 
 Docker:
-Docker push
+Docker push for deploying app to cluster
+
+Proximity groups
 
