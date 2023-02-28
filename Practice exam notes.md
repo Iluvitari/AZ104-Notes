@@ -78,6 +78,10 @@ Also ASR Vault can be moved to new subscription
 Azure marketplace:
 Set/Get-AzMarketplaceTerms cmdlet for a given publisher to accept/reject terms
 
+Cost analysis:
+Tags need to be given to each resource for filtering, they can then be filtered inthe cost analysis blade by tag and a usage report can be downloaded.
 
+Log analytics workspace:
+Database search operator 
 
 
