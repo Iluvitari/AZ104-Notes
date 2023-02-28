@@ -75,6 +75,9 @@ Moving between subscriptions:
 VM and associated resources can be moved
 Also ASR Vault can be moved to new subscription
 
+Azure marketplace:
+Set/Get-AzMarketplaceTerms cmdlet for a given publisher to accept/reject terms
+
 
 
 
