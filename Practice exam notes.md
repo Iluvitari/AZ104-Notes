@@ -82,6 +82,7 @@ Cost analysis:
 Tags need to be given to each resource for filtering, they can then be filtered inthe cost analysis blade by tag and a usage report can be downloaded.
 
 Log analytics workspace:
-Database search operator 
+Database search operator Event | search "error"/Event | where EventType == "error"/search in (Event) "error"
+This language is Kusto.
 
 
