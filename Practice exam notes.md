@@ -52,9 +52,11 @@ assignable scopes can be made to any subscription, remove anything under the sub
 Roles:
 Reader and storage blob contributor, reader so that user can browse through the blobs, contributor so that user can upload to a container within a blob.
 
+Locks:
+Locks can only be placed on subscriptions, resource groups and resources.
 
-
-
+Tags:
+Tags can only be placed on Azure resources, resource groups and subscriptions
 
 
 
