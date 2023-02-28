@@ -16,7 +16,11 @@ Dns REcords: Created A records in auto registration will be private ips as a pri
 Same vnet, regardless of dns suffix will exist in same private azure dns zone
 
 Auto registration for dns zones: all vms deployed in vnet will have dns records created to linked private dns zone
-Auto registration cant take place if the dns zone isnt linked to a vnet
+Auto registration cant take place if the dns zone isnt linked to a vnet. Vritual link needs to be created
+	VNEts can only be linked to private dns zones
+
+
+
 
 
 
