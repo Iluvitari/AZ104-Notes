@@ -5,4 +5,7 @@ Didn't read the screenshots properly
 App deployment performance issues:
 Correct = swap slots
 Can be reverted, swapping slot first to production slot confirms functionality
-If changes swapped into prod dont work they can be switched back 
+If changes swapped into prod dont work they can be switched back for last known good site.
+
+Restorting VM from backup without agent:
+File recovery can be done from any machine on the internet but VM1 and VM2 only is the answer due to potential capatability with any other machine, previous or future OS etc.
