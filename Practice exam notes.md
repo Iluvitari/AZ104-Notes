@@ -28,6 +28,7 @@ Connecting vnets as long as address space does not overlap
 10.10.10.0 and 10.10.128.0 are different subnets
 
 NSG:
+Default blocks all incoming traffic
 Deny/allow rules
 If attach network interface option is available then vm is off
 Allow rule with a high priority than a block rule will allow that target and then block all others
@@ -42,7 +43,8 @@ Only global admin can edit the security questions for SSPR
 Case study questions:
 1 app with minimised open ports and has sql database, web front end and processing. 5 vms. 
 	More than 1 network is not necessary
-
+There are 3 tiers here
+	There needs to be 3 subnets. 1 for each tier. Restricted by NSG. Communication is possible through vnet.
 
 
 
