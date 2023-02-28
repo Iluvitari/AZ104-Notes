@@ -16,6 +16,7 @@ Create new or replace existing options only
 Dns REcords: 
 Created A records in auto registration will be private ips as a private zone in the same vnet
 Same vnet, regardless of dns suffix will exist in same private azure dns zone
+For sub domains name servers need to be configured for internet top level domain DNS
 
 Auto registration for dns zones: 
 all vms deployed in vnet will have dns records created to linked private dns zone
@@ -130,7 +131,7 @@ Cant change usage model after an MFA provider is created
 Load balancing:
 Back end pools and health probes are added by network contributors
 To target a specific client for each request through load balancer a session percistence to a client IP needs to configuring
-Backend pools can only have vms attached with standard sku public ip config or no ip config. Dynamic means 
+Backend pools can only have vms attached with standard sku public ip config or no ip config. Dynamic public ip means basic sku ip no standard.
 
 Oauth:
 Required for AKS auth from aad
@@ -167,3 +168,5 @@ Requires VM to be on for extension to communicate
 Azure DNS ZOnes:
 Zones can be imported and exported by Az CLI, scripts are availability for administrative ease.
 
+NICS:
+Nic must be created in the same region as vnet
