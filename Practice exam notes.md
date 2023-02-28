@@ -149,4 +149,7 @@ Log analytics is then the source of alerting after log analytics workspace is co
 
 Network Watcher:
 To record successful connection attempts to vms we need an azure storage account, registered microsoft.insights andenabled azure network watcher flow logs.
-It is network traffic that flows through an nsg
+It is network traffic that flows through an nsg, nsg must be configured
+
+Availability:
+Seperate availability zone for each vm in an app build, zones protect from datacenter level failures, sets are datacenter configuration to provide vm redundancy and availability.
