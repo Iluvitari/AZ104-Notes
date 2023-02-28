@@ -39,6 +39,11 @@ Associated with VM nics for NSG targetting
 AAD SSPR:
 Only global admin can edit the security questions for SSPR
 
+Case study questions:
+1 app with minimised open ports and has sql database, web front end and processing. 5 vms. 
+	More than 1 network is not necessary
+
+
 
 
 
