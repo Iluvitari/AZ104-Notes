@@ -16,7 +16,7 @@ Create new or replace existing options only
 Dns REcords: 
 Created A records in auto registration will be private ips as a private zone in the same vnet
 Same vnet, regardless of dns suffix will exist in same private azure dns zone
-For sub domains name servers need to be configured for internet top level domain DNS
+For sub domains name servers need to be configured for internet top level domain DNS to direct queries.
 
 Auto registration for dns zones: 
 all vms deployed in vnet will have dns records created to linked private dns zone
@@ -170,3 +170,9 @@ Zones can be imported and exported by Az CLI, scripts are availability for admin
 
 NICS:
 Nic must be created in the same region as vnet
+
+IP Flow verify:
+To identify security rule preventing network packet from reaching Az vm.
+
+VM:
+Connection outbound from vm to external host can be troubleshooted with connection troubleshoot.
