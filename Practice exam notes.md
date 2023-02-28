@@ -124,6 +124,6 @@ A new one must be created from new provider
 Cant change usage model after an MFA provider is created
 
 Load balancing:
-Back end pools are added by network contributors
+Back end pools and health probes are added by network contributors
 
 
