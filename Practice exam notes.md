@@ -49,6 +49,8 @@ There are 3 tiers here
 Custom Roles:
 assignable scopes can be made to any subscription, remove anything under the subscription since it'll be picked up at the top level.
 
+Roles:
+Reader and storage blob contributor 
 
 
 
