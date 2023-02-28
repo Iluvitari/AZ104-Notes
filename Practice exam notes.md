@@ -66,7 +66,7 @@ On prem replication to azure:
 A hyper V site, azure recovery services vault and replication policy are required.
 
 VPN Gateway:
-If changes are made after VPN client package is 
+If changes are made after VPN client package is installed on windows client then it needs to be downloaded and installed again to apply latest changes.
 
 
 
