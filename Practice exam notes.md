@@ -150,6 +150,7 @@ Azure blob storage/azure file storage can be destinations of imported data
 Azure monitor:
 Monitoring agent must be installed on vm 
 Log analytics is then the source of alerting after log analytics workspace is configured
+Azure log analytics must be target resource for monitoring in alert rule, in this example for system event logs. < for log based alerting.
 
 Network Watcher:
 To record successful connection attempts to vms we need an azure storage account, registered microsoft.insights andenabled azure network watcher flow logs.
@@ -176,3 +177,6 @@ To identify security rule preventing network packet from reaching Az vm.
 
 VM:
 Connection outbound from vm to external host can be troubleshooted with connection troubleshoot.
+
+VM scale sets/availability sets:
+VM scale set consists of a set of identically configured vms, availability set is for a set of discre
