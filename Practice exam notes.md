@@ -10,7 +10,8 @@ If changes swapped into prod dont work they can be switched back for last known 
 Restoring VM from backup without agent:
 File recovery can be done from any machine on the internet but VM1 and VM2 only is the answer due to potential capability with any other machine, previous or future OS etc.
 
-Restoring VMs : Create new or replace existing options only
+Restoring VMs :
+Create new or replace existing options only
 
 Dns REcords: 
 Created A records in auto registration will be private ips as a private zone in the same vnet
@@ -23,6 +24,11 @@ Auto registration cant take place if the dns zone isnt linked to a vnet. Vritual
 	i.e. vm registers only to private dns zones in auto registration
 
 Vnet peering:
+Connecting vnets
+
+NSG:
+Deny/allow rules
+
 
 
 
