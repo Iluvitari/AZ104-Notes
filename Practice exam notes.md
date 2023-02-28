@@ -62,7 +62,11 @@ Azure storage lifecycle management rules:
 Archived means data cannot be read unless it is rehydrated. Blob is offline.
 Data can be read in cool storage
 
-O
+On prem replication to azure:
+A hyper V site, azure recovery services vault and replication policy are required.
+
+VPN Gateway:
+If changes are made after VPN client package is 
 
 
 
