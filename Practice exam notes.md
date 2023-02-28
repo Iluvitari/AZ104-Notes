@@ -142,3 +142,7 @@ Azure Import/export:
 Can only be done for gen purpose v2 storage acounts, blob storage accounts and gen v1 storage accounts.
 Supported only or importing blob and file, exportin blob
 Azure blob storage/azure file storage can be destinations of imported data
+
+Azure monitor:
+Monitoring agent must be installed on vm 
+Log analytics is then the source of alerting after log analytics workspace is configured
