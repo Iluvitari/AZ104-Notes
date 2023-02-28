@@ -32,7 +32,7 @@ Default blocks all incoming traffic
 Deny/allow rules
 If attach network interface option is available then vm is off
 Allow rule with a high priority than a block rule will allow that target and then block all others
-
+If no NSG then all traffic allowed
 
 ASG:
 Associated with VM nics for NSG targetting
@@ -154,3 +154,6 @@ It is network traffic that flows through an nsg, nsg must be configured
 Availability:
 Seperate availability zone for each vm in an app build, zones protect from datacenter level failures, sets are datacenter configuration to provide vm redundancy and availability.
 
+
+Protection from SQL injection:
+Application gateway using WAF tier - web application firewall. Centralised protection of web application from common exploits and vulns.
