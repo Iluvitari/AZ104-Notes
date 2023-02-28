@@ -29,6 +29,11 @@ Connecting vnets
 NSG:
 Deny/allow rules
 
+ASG:
+Associated with VM nics for NSG targetting
+
+
+
 
 
 
