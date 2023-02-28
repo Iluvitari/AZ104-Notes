@@ -96,7 +96,7 @@ Multiple server endpoints can exist on the same volume if their namespaces do no
 
 Azure site recovery:
 Storage accounts must be in same region as ASR vault
-Backups can only be done for resources in the same region.
+Backups can only be done for resources in the same region and storage blobs cannot be backed up to service vaults
 
 Storage:
 Premium file shares can only be hosted in storage accounts called "filestorage account"
@@ -141,3 +141,4 @@ Adjust guest user settings, their access and who can invite them from , external
 Azure Import/export:
 Can only be done for gen purpose v2 storage acounts, blob storage accounts and gen v1 storage accounts.
 Supported only or importing blob and file, exportin blob
+Azure blob storage/azure file storage can be destinations of imported data
