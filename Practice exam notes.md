@@ -119,5 +119,8 @@ Proximity placements:
 Proximity placements can only be associated with RGs in the same region.
 
 MFA usage model:
-Not possible to chage the usage model of existing provider
+Not possible to change the usage model of existing provider
+A new one must be created from new provider
+Cant change usage model after an MFA provider is created
+
 
