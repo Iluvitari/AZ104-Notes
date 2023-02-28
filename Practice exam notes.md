@@ -33,7 +33,7 @@ Deny/allow rules
 If attach network interface option is available then vm is off
 Allow rule with a high priority than a block rule will allow that target and then block all others
 If no NSG then all traffic allowed
-You can hold one NSG on multiple subnets, vms,
+You can hold one NSG on multiple subnets, vms,nics
 
 ASG:
 Associated with VM nics for NSG targetting
@@ -163,3 +163,5 @@ Application gateway using WAF tier - web application firewall. Centralised prote
 Desired state configuration:
 Requires VM to be on for extension to communicate
 
+Azure DNS ZOnes:
+Zones can be imported and exported by Az CLI, scripts are availability for administrative ease.
