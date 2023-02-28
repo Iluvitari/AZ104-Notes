@@ -85,4 +85,9 @@ Log analytics workspace:
 Database search operator Event | search "error"/Event | where EventType == "error"/search in (Event) "error"
 This language is Kusto.
 
+Traffic analytics:
+Reader role can enable traffic analytics for an azure subscription. 
 
+Sync groups:
+Contains 1 cloud endpoint or azure file share and at least one server endpoint.
+AZfile
