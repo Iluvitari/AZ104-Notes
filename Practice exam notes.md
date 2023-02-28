@@ -92,3 +92,6 @@ Azure file sync:
 Sync groups contain 1 cloud endpoint or azure file share and at least one server endpoint.
 AZfile sync does not support more than one server endpoint from the same server in the same sync group.
 Multiple server endpoints can exist on the same volume if their namespaces do not overlap and the endpoints are syncing to unique sync groups, not the same sync group as per above comment.
+
+Azure site recovery:
+Storage accounts must be in same region a
