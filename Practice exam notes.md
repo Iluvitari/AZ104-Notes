@@ -46,6 +46,10 @@ Case study questions:
 There are 3 tiers here
 	There needs to be 3 subnets. 1 for each tier. Restricted by NSG. Communication is possible through vnet.
 
+Custom Roles:
+assignable scopes can be made to any subscription, remove anything under the subscription since it'll be picked up at the top level.
+
+
 
 
 
