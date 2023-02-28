@@ -179,4 +179,8 @@ VM:
 Connection outbound from vm to external host can be troubleshooted with connection troubleshoot.
 
 VM scale sets/availability sets:
-VM scale set consists of a set of identically configured vms, availability set is for a set of discre
+VM scale set consists of a set of identically configured vms, availability set is for a set of discrete vms. 
+2 machines upgrading at anytime will mean 8 remaining up in a scale set. One availability set with 10 vms should be appropriate for an app deployment using 10 vms with no more than 2 down at one time for upgrades.
+
+ARM template:
+Parameter platform-fau
