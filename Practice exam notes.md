@@ -33,6 +33,7 @@ Deny/allow rules
 If attach network interface option is available then vm is off
 Allow rule with a high priority than a block rule will allow that target and then block all others
 If no NSG then all traffic allowed
+You can hold one NSG on multiple subnets, vms,
 
 ASG:
 Associated with VM nics for NSG targetting
@@ -128,6 +129,7 @@ Cant change usage model after an MFA provider is created
 
 Load balancing:
 Back end pools and health probes are added by network contributors
+To target a specific client for each request through load balancer a session percistence to a client IP needs to configuring
 
 Oauth:
 Required for AKS auth from aad
@@ -157,3 +159,7 @@ Seperate availability zone for each vm in an app build, zones protect from datac
 
 Protection from SQL injection:
 Application gateway using WAF tier - web application firewall. Centralised protection of web application from common exploits and vulns.
+
+Desired state configuration:
+Requires VM to be on for extension to communicate
+
