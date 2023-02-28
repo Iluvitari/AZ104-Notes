@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88fb614b50002be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice exam notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 159.5
+    "width": 159.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc140d0b30f75cf8",
@@ -101,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ-104 Overview.md",
+                "file": "Practice exam notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ-104 Overview.md",
+                "file": "Practice exam notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ-104 Overview.md"
+                "file": "Practice exam notes.md"
               }
             }
           },
@@ -158,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 205.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +190,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51fe0b9f8978d536",
+  "active": "88fb614b50002be1",
   "lastOpenFiles": [
     "AZ-104 Overview.md",
+    "Practice exam notes.md",
     "Mindmaps/AZ104 Summary Mindmap.md",
     "Azure AD/Azure AD.md",
     "MARKDOWN & HOTKEY CHEATSHEET.md",
