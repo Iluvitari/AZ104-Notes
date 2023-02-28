@@ -115,5 +115,6 @@ Autoscaling aks is referring to nodes, scaling nodes.
 Docker:
 Docker push for deploying app to cluster
 
-Proximity groups
+Proximity placements:
+Proximity placements can only be associated with RGs in the same region.
 
