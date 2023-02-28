@@ -84,6 +84,7 @@ Tags need to be given to each resource for filtering, they can then be filtered 
 Log analytics workspace:
 Database search operator Event | search "error"/Event | where EventType == "error"/search in (Event) "error"
 This language is Kusto.
+Workspaces can be setup independent of the location and subscription where ASR vaults exist.
 
 Traffic analytics:
 Reader role can enable traffic analytics for an azure subscription. 
@@ -94,4 +95,5 @@ AZfile sync does not support more than one server endpoint from the same server 
 Multiple server endpoints can exist on the same volume if their namespaces do not overlap and the endpoints are syncing to unique sync groups, not the same sync group as per above comment.
 
 Azure site recovery:
-Storage accounts must be in same region a
+Storage accounts must be in same region as ASR vault
+
