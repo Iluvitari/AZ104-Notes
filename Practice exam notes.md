@@ -134,7 +134,7 @@ Load balancing:
 Back end pools and health probes are added by network contributors
 To target a specific client for each request through load balancer a session percistence to a client IP needs to configuring
 Backend pools can only have vms attached with standard sku public ip config or no ip config. Dynamic public ip means basic sku ip no standard.
-
+Before load balancing rules can be created a backend pool and health probe must be configured.
 
 Oauth:
 Required for AKS auth from aad
@@ -188,3 +188,18 @@ VM scale set consists of a set of identically configured vms, availability set i
 ARM template:
 Parameter platform-fault-domain-count, for setting as many as possible vms to be up in the case of a failure "maxvalue" should be configured.
 Maximum of 20 update domains can be assigned to availability set. 5 by default, this indicates groups of vms and hardware that can be rebooted at the sametime.
+
+Express route:
+SKU ErGw3AZ for FastPath
+Skus:
+-   Standard
+    
+-   HighPerformance
+    
+-   UltraPerformance
+    
+-   ErGw1Az
+    
+-   ErGw2Az
+    
+-   ErGw3Az
