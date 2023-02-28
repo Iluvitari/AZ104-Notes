@@ -130,6 +130,7 @@ Cant change usage model after an MFA provider is created
 Load balancing:
 Back end pools and health probes are added by network contributors
 To target a specific client for each request through load balancer a session percistence to a client IP needs to configuring
+Backend pools can only have vms attached with standard sku public ip config or no ip config. Dynamic means 
 
 Oauth:
 Required for AKS auth from aad
@@ -165,3 +166,4 @@ Requires VM to be on for extension to communicate
 
 Azure DNS ZOnes:
 Zones can be imported and exported by Az CLI, scripts are availability for administrative ease.
+
